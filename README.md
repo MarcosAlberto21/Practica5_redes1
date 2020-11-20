@@ -87,7 +87,7 @@
  para comandos cisco verificar la sintaxis
  
  
-  ![image](https://drive.google.com/uc?export=view&id=1V0PcOQuVnoc5BDr74wVrssYzwxorkgVa) 
+ ![image](https://drive.google.com/uc?export=view&id=1V0PcOQuVnoc5BDr74wVrssYzwxorkgVa) 
  
  
  
