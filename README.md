@@ -54,5 +54,30 @@
    ![image](https://drive.google.com/uc?export=view&id=1R5gkwkz9ZBy0ILA1zgjpWAEQPnvulqk7)
  
 
+ ### Congiguración ROUTER
+ 
+ 
+     comandos:
+          conf t
+           interface fastEthernet 0/0
+           no shutdown
+           exit
 
+           interface fastEthernet 0/0.10
+           encapsulation dot1Q 10
+           ip address 192.168.10.254 255.255.255.0
+           exit
+
+           interface fastEthernet 0/0.50
+           encapsulatio dot1Q 50
+           ip address 192.168.50.254 255.255.255.0
+          exit
+
+           interface fastEthernet 0/0.70
+           encapsulatio dot1Q 70
+           ip address 192.168.70.254 255.255.255.0
+          exit
+          
+ ![image](https://drive.google.com/uc?export=view&id=1h8oF78V82xnxguth4ged-qLR5LPD791d)   
+     
  
