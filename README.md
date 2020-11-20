@@ -20,7 +20,7 @@
  
  
  
- ### Congiguración ETHERNETSWITCH 
+ ### Configuración ETHERNETSWITCH 
  
       Se crean las vlans
       
@@ -51,7 +51,7 @@
                exit
                write
                !
-   ![image](https://drive.google.com/uc?export=view&id=1R5gkwkz9ZBy0ILA1zgjpWAEQPnvulqk7)
+   ![image](https://drive.google.com/uc?export=view&id=1h8oF78V82xnxguth4ged-qLR5LPD791d)
  
 
  ### Configuración ROUTER
